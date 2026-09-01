@@ -27,6 +27,10 @@ The analysis combines publicly available datasets from the Georgia Department of
 - Georgia Department of Public Health
 - EPA Safe Drinking Water Act (SDWA)
 
+## Data Availability
+
+The datasets used in this project are publicly available but are not included in this repository due to their size.
+
 ## Repository Structure
 
 - notebook/
